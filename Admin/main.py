@@ -22,14 +22,14 @@ from functions.taskmanager import TaskManagerMixin
 
 # Данные для входа
 SERVER_HOST = "" # Адрес сервера
-SERVER_PORT = 44 # Порт сервера
+SERVER_PORT = 11 # Порт сервера
 ADMIN_PASSWORD = "" # Админ пароль
 
 # Task Manager + Media + Mahine Control + Control (Mouse + Keyboard) порт
-ACTION_PORT = 25758
+ACTION_PORT = 33
 
 # Аудио порт
-AUDIO_PORT = 25672
+AUDIO_PORT = 22
 
 MAX_PACKET_SIZE = 8 * 1024 * 1024
 
