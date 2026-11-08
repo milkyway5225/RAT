@@ -3,7 +3,7 @@
 ### To connect the client and the admin panel, you need a server or open ports; using a server is the simplest approach.
 
 ## Minimum server requirements
-| Параметр | Значение |
+| Parameter | Meaning |
 | :--- | :--- |
 | **CPU:** | 1–1.5 cores |
 | **RAM:** | 1–4 GB |
